@@ -1,4 +1,8 @@
-# Pattern-Matching
+"""
+Pattern/String Matching Algorithms
+    @shailesh-NITK
+"""
+
 
 #include<stdio.h>
 #include<stdlib.h>
